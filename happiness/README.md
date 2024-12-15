@@ -100,7 +100,9 @@ To enhance our understanding of the intricate relationship between the factors i
 
 4. **Extended Dataset Inclusion**: Supplement current data with additional sources, such as surveys on mental health or economic changes, for more comprehensive insights.
 
-In conclusion, this dataset offers a rich tapestry to explore the nuances of happiness across different countries and can inspire strategic initiatives to enhance individual well-being globally. Thank you for exploring this dataset, and let�s deepen our analysis together!
+## Conclusion 
+
+In conclusion, this dataset offers a rich tapestry to explore the nuances of happiness across different countries and can inspire strategic initiatives to enhance individual well-being globally. Thank you for exploring this dataset, and let’s deepen our analysis together!
 
 ## Visualizations
 ![correlation_heatmap.png](correlation_heatmap.png)
